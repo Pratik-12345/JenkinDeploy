@@ -1,0 +1,8 @@
+org\techeasy\messenger\model\Message.class
+org\techeasy\messenger\resources\SecureMessage.class
+org\techeasy\messenger\service\CarService.class
+org\techeasy\messenger\resources\CarResource.class
+org\techeasy\messenger\model\Car.class
+org\techeasy\messenger\service\MessageService.class
+org\techeasy\messenger\resources\MessageResource.class
+org\techeasy\messenger\MyResource.class
